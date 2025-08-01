@@ -1,4 +1,4 @@
-<img width="466" height="102" alt="image" src="https://github.com/user-attachments/assets/2144fa01-10fc-447e-9679-b9d4d634389b" /> 
+<img width="466" height="102" alt="Battleship" src="https://github.com/user-attachments/assets/2144fa01-10fc-447e-9679-b9d4d634389b" /> 
 
 Battleship with a fully interactive GUI and the ability to play versus other human players over the internet or an AI. Made with Java/JavaFX.
 
@@ -14,7 +14,9 @@ While it is not exactly necessary to use IntelliJ IDEA to open and run these pro
 4. Place all of your ships in the desired arrangement, then hit the "Continue" button after choosing to play against a human or AI (must do this in both windows and choose "Human" if running two clients).
 5. Play *Battleship*!
 
-## Example
-<img width="1600" height="1036" alt="image" src="https://github.com/user-attachments/assets/a8f47e26-9542-41ff-84a7-97bf4cfca7d1" />
+## Examples
+<img width="1593" height="1026" alt="gameplay 1" src="https://github.com/user-attachments/assets/acf2f6f0-fb51-4626-aeed-6cb4f498315d" />
+
+<img width="1600" height="1036" alt="gameplay 2" src="https://github.com/user-attachments/assets/a8f47e26-9542-41ff-84a7-97bf4cfca7d1" />
 
 
